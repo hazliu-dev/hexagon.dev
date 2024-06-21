@@ -1,1 +1,1 @@
-[{"key":"kin","userIds":["788"]}]
+[{"key":"kin","userIds":["788"]},{"key":"founderkey","userIds":["788"]}]
