@@ -1,1 +1,1 @@
-[{"key":"founderkey","userIds":["3884585303"]}]
+[]
